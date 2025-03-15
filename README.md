@@ -72,7 +72,7 @@ This project follows **Service-Oriented Architecture (SOA)** principles, adheres
 - **Clean Architecture** – A software design pattern that separates the application into layers for better maintainability and testability.
 - **Model-View-Presenter (MVP)** – A design pattern that improves the separation of concerns in the application, enhancing testability and modularity.
 
-## **GUI pictures**
+## **GUI snapshots**
 ![Alt text](https://github.com/nickTheof/school-swing-soa-mvp-app/blob/main/git-images/LandingPage.png)
 ![Alt text](https://github.com/nickTheof/school-swing-soa-mvp-app/blob/main/git-images/LoginPage.png)
 ![Alt text](https://github.com/nickTheof/school-swing-soa-mvp-app/blob/main/git-images/Dashboard.png)
