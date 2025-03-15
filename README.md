@@ -54,6 +54,10 @@ This project follows **Service-Oriented Architecture (SOA)** principles, adheres
    ```sh
    cd target
    java -Xmx1024m -jar school-swing-soa-mvp-clean-1.0-SNAPSHOT.jar
+   
+5. **Login Credentials**
+   - username: "Admin" or "admin"
+   - password: "12345"
 
 
 ## **Technologies Used**
