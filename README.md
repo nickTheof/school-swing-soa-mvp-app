@@ -34,7 +34,17 @@ This project follows **Service-Oriented Architecture (SOA)** principles, adheres
    cd school-swing-soa-mvp-app
    
 2. **Database setup**
-   - You can find the snap of the db schema and data in the src/main/resources/sql
+   1. **Create a MySQL User**  
+      In order to connect to the MySQL database, you must create a new user with the following credentials:
+
+      - **Username**: `user7pro`
+      - **Password**: (Choose a secure password for the user)
+   2. **Step 2: Set the User Password in the Environment Variable**
+      - **Environment Variable Name**: `PASSWD_USER7`
+      - **Environment Variable Value**: The password you used when creating the `user7pro` MySQL user.
+   
+   3. **Step 3: Database Schema and Data**
+      - You can find the snap of the db schema and data in the src/main/resources/sql
 
 3. **Build the Application**
    ```sh
