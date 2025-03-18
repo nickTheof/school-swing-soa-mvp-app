@@ -53,7 +53,7 @@ This project follows **Service-Oriented Architecture (SOA)** principles, adheres
 4. **Run the Application**
    ```sh
    cd target
-   java -Xmx1024m -jar school-swing-soa-mvp-clean-1.0-SNAPSHOT.jar
+   java -Xmx1024m -jar school7.jar
    
 5. **Login Credentials**
    - username: "Admin" or "admin"
